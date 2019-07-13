@@ -1,4 +1,4 @@
 #readme.txt file.
 Updated
 
-Added line to trigger job to clone git repo
+Added line to trigger job to clone git repository
